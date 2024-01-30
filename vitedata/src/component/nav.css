@@ -1,0 +1,32 @@
+.nav{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav>div>.lnk{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+#lnk{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+}
