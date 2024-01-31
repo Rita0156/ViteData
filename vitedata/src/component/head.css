@@ -1,0 +1,26 @@
+#main{
+    width: 40%;
+    margin: auto;
+}
+.main{
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding-top: 2px;
+    margin: auto;
+    padding-bottom: 2px;
+    margin-bottom: 20px;
+    
+}
+#select{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    text-align: left;
+    width: 95%;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#select select{
+    width: 90%;
+    margin: auto;
+    padding-left: 20px;
+}

@@ -22,7 +22,7 @@
     display: flex;
     justify-content: space-around;
 }
-button{
+#btn{
     background-color: red;
     color: white;
     font-weight: bold;
